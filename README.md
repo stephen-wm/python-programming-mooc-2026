@@ -28,10 +28,10 @@ I'm recording myself reading through the material and solving every exercise. Vi
 | Part | Title | Video |
 |------|-------|-------|
 | Part 1 | Introduction to Programming | ▶️ [Watch](https://www.youtube.com/watch?v=FSPuh17JYBw&list=PLfBt8at0Q6wt827eobJZfm9jNazxAH90L&index=9) |
-| Part 2 | Information from the user | 🔜 Coming soon |
-| Part 3 | More loops | 🔜 Coming soon |
-| Part 4 | Functions | 🔜 Coming soon |
-| Part 5 | Lists | 🔜 Coming soon |
+| Part 2 | Information from the user | ▶️ [Watch](https://www.youtube.com/watch?v=freVZunc8Bg) |
+| Part 3 | More loops | ▶️ [Watch](https://www.youtube.com/watch?v=YRjpKTnjZm0) |
+| Part 4 | Functions | ▶️ [Watch](https://www.youtube.com/watch?v=Nz_7ZU49Ows) |
+| Part 5 | Lists | ▶️ [Watch](https://www.youtube.com/watch?v=KGbZvz_RsHs) |
 | Part 6 | Files and error handling | 🔜 Coming soon |
 | Part 7 | Data processing and classes | 🔜 Coming soon |
 | Part 8 | Objects and methods | 🔜 Coming soon |
