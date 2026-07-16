@@ -25,22 +25,32 @@ I'm recording myself reading through the material and solving every exercise. Vi
 
 > 📺 **[Watch the full playlist on YouTube →](https://www.youtube.com/watch?v=E0dXD9LhvsQ&list=PLfBt8at0Q6wt827eobJZfm9jNazxAH90L)**
 
-| Part | Title | Video |
-|------|-------|-------|
-| Part 1 | Introduction to Programming | ▶️ [Watch](https://www.youtube.com/watch?v=FSPuh17JYBw&list=PLfBt8at0Q6wt827eobJZfm9jNazxAH90L&index=9) |
-| Part 2 | Information from the user | ▶️ [Watch](https://www.youtube.com/watch?v=freVZunc8Bg) |
-| Part 3 | More loops | ▶️ [Watch](https://www.youtube.com/watch?v=YRjpKTnjZm0) |
-| Part 4 | Functions | ▶️ [Watch](https://www.youtube.com/watch?v=Nz_7ZU49Ows) |
-| Part 5 | Lists | ▶️ [Watch](https://www.youtube.com/watch?v=KGbZvz_RsHs) |
-| Part 6 | Files and error handling | 🔜 Coming soon |
-| Part 7 | Data processing and classes | 🔜 Coming soon |
-| Part 8 | Objects and methods | 🔜 Coming soon |
-| Part 9 | Objects and references | 🔜 Coming soon |
-| Part 10 | Class hierarchies | 🔜 Coming soon |
-| Part 11 | List comprehensions | 🔜 Coming soon |
-| Part 12 | Functions as arguments | 🔜 Coming soon |
-| Part 13 | Testing and logging | 🔜 Coming soon |
-| Part 14 | Project work | 🔜 Coming soon |
+### [📚 Video Index](./VIDEOS.md)
+
+The video index follows the same structure as the course:
+
+```ASCII
+Part
+ └── Section
+      └── Video(s)
+```
+
+For example:
+
+```ASCII
+Part 5 - Lists
+
+5.1 Lists
+ └── Part 5.1
+
+5.2 More Lists
+ └── Part 5.2
+
+5.3 References
+ ├── Part 5.3.1
+ ├── Part 5.3.2
+ └── Part 5.3.3
+```
 
 ---
 
@@ -72,27 +82,27 @@ python-programming-mooc-2026/
 
 ### Introduction to Programming (Parts 1–7)
 
-| Part | Topics Covered | Exercises | Status |
-|------|---------------|-----------|--------|
-| [Part 1](./part01/) | Getting started, variables, print, arithmetic | 1–30 | ✅ Complete |
-| [Part 2]('./part02/) | Terminology, more on conditionals, loops | 1-22 | ⌛ In progress |
-| Part 3 | Loops, string processing | — | 🔜 Upcoming |
-| Part 4 | Functions, scope | — | 🔜 Upcoming |
-| Part 5 | Lists, tuples, references | — | 🔜 Upcoming |
-| Part 6 | Files, exceptions | — | 🔜 Upcoming |
-| Part 7 | Modules, data structures, classes intro | — | 🔜 Upcoming |
+| Part | Topics Covered | Status |
+|------|---------------|--------|
+| [Part 1](./part01/) | Getting started, variables, print, arithmetic | ✅ Complete |
+| [Part 2]('./part02/) | Terminology, more on conditionals, loops | ✅ Complete |
+| [Part 3]('./part03/) | Loops, string processing | ✅ Complete |
+| [Part 4]('./part04/) | Functions, scope | ✅ Complete |
+| [Part 5]('./part05/) | Lists, tuples, references | ⌛ In progress |
+| Part 6 | Files, exceptions | 🔜 Upcoming |
+| Part 7 | Modules, data structures, classes intro | 🔜 Upcoming |
 
 ### Advanced Course in Programming (Parts 8–14)
 
-| Part | Topics Covered | Exercises | Status |
-|------|---------------|-----------|--------|
-| Part 8 | Objects and methods | — | 🔜 Upcoming |
-| Part 9 | Objects and references | — | 🔜 Upcoming |
-| Part 10 | Class hierarchies | — | 🔜 Upcoming |
-| Part 11 | List comprehensions | — | 🔜 Upcoming |
-| Part 12 | Functions as arguments | — | 🔜 Upcoming |
-| Part 13 | Testing and logging | — | 🔜 Upcoming |
-| Part 14 | Project work | — | 🔜 Upcoming |
+| Part | Topics Covered | Status |
+|------|---------------|--------|
+| Part 8 | Objects and methods | 🔜 Upcoming |
+| Part 9 | Objects and references | 🔜 Upcoming |
+| Part 10 | Class hierarchies | 🔜 Upcoming |
+| Part 11 | List comprehensions | 🔜 Upcoming |
+| Part 12 | Functions as arguments | 🔜 Upcoming |
+| Part 13 | Testing and logging | 🔜 Upcoming |
+| Part 14 | Project work | 🔜 Upcoming |
 
 ---
 
@@ -116,20 +126,21 @@ No external dependencies are required for Parts 1–7. Some later parts may use 
 
 ---
 
-## 🔗 Useful Links
+## 📝 Notes
 
-- 📚 [Course Material](https://programming-26.mooc.fi/) — Official MOOC website
-- 💬 [Course Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) — Community support
-- 🎓 [University of Helsinki](https://www.helsinki.fi/en) — Course provider
-- 📺 [My YouTube Channel](https://www.youtube.com/@stephenwm) — Video walkthroughs
+* These solutions represent my personal learning process.
+* They may not always be the shortest or most optimized solution, but they pass the course tests.
+* If you are taking the MOOC yourself, I recommend attempting the exercises before looking at solutions.
+* The goal of this repository is to provide a reference alongside the YouTube series.
 
 ---
 
-## 📝 Notes
+## 🔗 Useful Links
 
-- Solutions reflect my personal learning process — they may not always be the most optimal approach, but they pass the course's automated tests.
-- I'm completing the course as part of the 2026 cohort (open until end of 2026).
-- Feel free to use this repo as a reference, but I encourage you to attempt the exercises yourself first!
+- 📚 [Course Material](https://programming-26.mooc.fi/) — Official MOOC website
+- 💬 [Course Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) — Community support (this server is run by the University of Helsinki)
+- 🎓 [University of Helsinki](https://www.helsinki.fi/en) — Course provider
+- 📺 [My YouTube Channel](https://www.youtube.com/@stephenwm) — Video walkthroughs
 
 ---
 
